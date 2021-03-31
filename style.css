@@ -28,7 +28,7 @@ html{
   grid-area:Daniel;
   background: url(./images/bg-pattern-quotation.svg)  no-repeat;
   background-color: hsl(263, 55%, 52%);
-  background-position: right top  ;
+  background-position: 500px 5px;
 }
 
 .jonathan-box{
@@ -76,12 +76,18 @@ html{
 h3{
   clear: both;
   margin:40px 0 20px 0;
-  font-weight:normal;
-
 }
 
 .black-text{
   color:black;
+}
+
+.white-text{
+  color:white;
+}
+
+.head-review{
+  font-weight: bold;
 }
 
 #copyright{
